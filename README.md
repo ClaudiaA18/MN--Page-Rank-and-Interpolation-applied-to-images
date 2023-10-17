@@ -1,6 +1,6 @@
 # MN
 
-# Teme
+## Teme
 - Tema 1: Page Rank
   
-- Interpolarea aplicata pe o imagine
+- Tema 2: Interpolarea aplicata pe o imagine
